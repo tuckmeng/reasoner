@@ -6,4 +6,4 @@ So this is a prototype to see if all reasoning tasks require an LLM to do.
 I'm not saying everything can be done without an LLM, but it's good to think harder about the problem statement and the solution to see how you can make it less complicated and less costly.
 Else you'll be burning a lot of LLM tokens and they don't come cheap because you're playing around with some sophisticated technology here when a simpler system will do.
 
-Hence, this POC. Download the executable and the sample test files and play with them. The screenshots are pretty self-explanatory.
+Hence, this POC to illustrate a point. Download the executable and the sample test files and play with them. The screenshots are pretty self-explanatory.
