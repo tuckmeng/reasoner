@@ -1,0 +1,12 @@
+All animals breathe.
+All mammals are animals.
+All cats are mammals.
+All tabbies are cats.
+All cats meow.
+All mammals have fur.
+All birds have feathers.
+Do tabbies breathe?
+Do tabbies have fur?
+Do tabbies meow?
+Are tabbies mammals?
+Are birds mammals?

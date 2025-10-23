@@ -1,0 +1,6 @@
+All cats are mammals.
+All mammals have teeth.
+Do cats have teeth?
+All birds are non-mammals.
+Do birds have teeth?
+Do lizards have teeth?
